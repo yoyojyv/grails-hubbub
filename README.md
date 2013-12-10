@@ -14,7 +14,7 @@ hubbub - Grails in Action 2nd Edition
 ### 02: 모델 생성. spock integration test 작성
 
 
-![alt text](https://github.com/yoyojyv/grails-hubbub/tree/02.ModelingTheDomain/web-app/images/modeling.png)
+![alt text](https://github.com/yoyojyv/grails-hubbub/blob/02.ModelingTheDomain/web-app/images/modeling.png "Domain Model")
 
 
 
