@@ -8,8 +8,11 @@ hubbub - Grails in Action 2nd Edition
 
 
     grails create-app hubbub
+
     cd hubbub
+
     grails run-app
+
 
 ### 02: 모델 생성. spock integration test 작성
 
